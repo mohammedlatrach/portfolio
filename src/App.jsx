@@ -4,10 +4,11 @@ function App() {
   return (
     <>
       <div className='bg-red-100'>
-        (search button)
+        {/* (search button)
         articles/blog?
         about
-        projects
+        projects */}
+         En maintenance... jusqu'au 03.12.24
       </div>
     </>
   )
